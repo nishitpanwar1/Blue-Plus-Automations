@@ -1,0 +1,276 @@
+I want you to act as a professional enterprise-level web developer & UI/UX architect and create a premium, futuristic, hybrid light-theme website for my agency:
+
+BluePulse Automations – AI-Powered Business Process Automation Agency
+
+Create a complete 3-file website project containing ONLY:
+
+index.html
+
+style.css
+
+script.js
+
+No additional folders unless required for animations.
+
+✔️ 🟦 PROJECT REQUIREMENTS
+
+Build the website to look like a mix of:
+
+Kyndryl (layout)
+
+Nvidia (futuristic visuals)
+
+Apple (clean white minimalism)
+
+OpenAI (AI energy)
+
+Modern, premium, enterprise-quality website.
+
+✔️ 🟪 DESIGN STYLE
+
+Use the following visual guidelines:
+
+🎨 Color Palette
+
+Use a hybrid enterprise + futuristic theme:
+
+Pure White (#ffffff)
+
+Light Silver (#f5f7fa)
+
+Deep Blue (#004cff)
+
+Cyan/Aqua Gradient (#00eaff → #005eff)
+
+Soft Purple (#8a5cff)
+
+Glassmorphism transparency
+
+Smooth shadows & depth
+
+✨ Typography
+
+Headlines: “Inter Tight / Poppins / SF Pro Display”
+
+Body text: “Inter / DM Sans”
+
+🔥 Visual Effects
+
+AI gradient hero background
+
+Glass cards
+
+Smooth dissolve page transitions
+
+Scroll animations
+
+Hover 3D lift
+
+Subtle neon accent glows
+
+Particles.js background (JS)
+
+✔️ 🟩 WEBSITE STRUCTURE (MULTI-PAGE FEEL)
+
+Even though the site is single-page, create different “screens” that behave like real pages using JS:
+
+Sections Required:
+1. Home (Hero Section)
+
+Big AI animated gradient
+
+Premium headline: “Automate. Accelerate. Evolve.”
+
+Sub-headline about enterprise BPA
+
+Particle background
+
+Smooth fade-in animation
+
+2. Services (7 Detailed Services)
+
+Each service must have a full detailed subsection:
+
+Workflow Automation
+
+Chatbot Automation
+
+Marketing Automation
+
+CRM Automation
+
+AI Agents
+
+Data Automation
+
+Integration & API Automation
+
+Each service should include:
+
+Title
+
+Description
+
+Real use cases
+
+Benefits
+
+Tools used (AI models, APIs, RPA, Zapier, Make, etc.)
+
+Enterprise-grade explanation
+
+3. Industries Section
+
+Describe how automation helps:
+
+Finance
+
+Healthcare
+
+Retail
+
+Education
+
+Logistics
+
+Ecommerce
+
+Real estate
+
+4. About Section
+
+Explain:
+
+Who we are
+
+Our mission
+
+Our AI-driven BPA approach
+
+How we reduce cost & increase efficiency
+
+Why companies trust us
+
+5. Insights Section
+
+Add:
+
+Articles
+
+AI automation trends
+
+Digital transformation insights
+
+Future of AI agents
+
+6. Contact Section
+
+ONLY include:
+
+Email
+
+Discord
+
+No phone number
+
+✔️ 🟧 NAVIGATION
+
+The navbar should follow Kyndryl-style navigation:
+
+Home
+
+Services
+
+Industries
+
+About
+
+Insights
+
+Contact
+
+On click → smooth fade transition to each screen.
+
+✔️ 🟦 ANIMATIONS (script.js)
+
+Include:
+
+Smooth page transitions
+
+Parallax hero animation
+
+Particles.js
+
+Scroll reveal animations
+
+Dynamic navigation highlight
+
+Glassmorphism card interactions
+
+✔️ 🟨 RESPONSIVE DESIGN
+
+Mobile & Tablet optimized:
+
+Collapsible menu
+
+Stacked hero layout
+
+Services in a vertical card layout
+
+Smooth mobile animations
+
+✔️ 🟫 FINAL OUTPUT
+
+Deliver the project as 3 fully complete files:
+
+1. Full index.html
+
+All sections
+
+All content
+
+All structure
+
+All service details
+
+Linked to CSS & JS
+
+2. Full style.css
+
+Complete layout
+
+Animations
+
+Gradients
+
+Modern enterprise UI
+
+Responsive design
+
+3. Full script.js
+
+Page transitions
+
+Navigation logic
+
+Particles.js config
+
+Scroll animations
+
+UI interactions
+
+✔️ STRICT RULES
+
+NO lorem ipsum
+
+Write real, professional agency content
+
+NO phone number
+
+Only Email + Discord
+
+Website must look premium, elegant, futuristic, enterprise-level
+
+DO NOT simplify anything
+
+Make it maximum detailed
